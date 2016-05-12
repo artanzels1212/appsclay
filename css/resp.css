@@ -1,0 +1,177 @@
+@media only screen and (max-width: 500px) {/*log for i6*/
+    .logo
+    {       
+        padding-right: 80px;
+    }
+}
+@media only screen and (max-width: 500px) {/*menu for i6*/
+    .w-nav-button
+    {
+        width:60px !important;
+        float:right;
+        margin-top:-70px !important;
+        padding-left: 10px;
+    }
+}
+
+@media only screen and (max-width:800px) {
+    .w-row
+    {
+        padding-left: 10px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .w-nav-button
+    {
+        width:60px !important;
+        float:right;
+        margin-top:-70px !important;
+        padding-left: 10px;
+    }
+}
+@media only screen and (max-width:500px) {
+    #firstbannerinnerdiv
+    {
+        top:5px !important;
+            
+    }
+}
+@media only screen and (max-width:500px)
+.propose
+    {
+      
+       display:none !important;
+    }
+}
+@media only screen and (max-width:500px) {
+    .call
+    {
+      
+        top: 120px !important;
+        left: 50% !important; 
+        width: 45% !important;
+    }
+}
+
+@media only screen and (max-width:400px) {
+    #firstbannerh1
+    {
+      font-size: 15px !important;
+    }
+}
+@media only screen and (max-width:500px) {/*for plans*/
+    .w-container
+    {
+       margin-left:45px;
+            
+    }
+}
+@media only screen and (max-width:500px) {
+    .our-plans 
+    {
+    padding-right: 40px;
+            
+    }
+}
+@media only screen and (max-width:600px) {/* tems for i6*/
+    .team-section 
+    {
+    margin-right: -100px;
+        margin-left: -50px;
+            
+    }
+}
+@media only screen and (max-width:700px) {/*slider i6*/
+    #firstbannerdiv
+    {
+    margin-top: 0%; 
+        right: 18%;
+    
+    
+    }
+}
+@media only screen and (max-width:600px) {/*help  for i6*/
+    #yo
+    {
+   display: none;
+    }
+}
+@media only screen and (max-width:600px) {/*request for i6*/
+    .propose
+    {
+   top: 55% !important;
+    width:100px!important;
+    height: 45px!important;
+   letter-spacing: 1px!important;
+    font-size: 10px!important;
+        left: 20%!important;
+    }
+}
+@media only screen and (max-width:600px) {/*call for i6*/
+    .call
+    {
+ top: 55% !important;
+    width:100px!important;
+    height: 45px!important;
+   letter-spacing: 1px!important;
+    font-size: 10px!important;
+        left: 50%!important;
+    }
+}
+
+@media only screen and (orientation: landscape) {/* Landscape i6 logo */
+    .logo{
+        padding-right:10%;
+        }
+}
+@media only screen and (orientation: landscape) {/*menu for i6 landscape*/
+    .w-nav-button
+    {
+        width:60px !important;
+        float:right;
+        margin-top:-70px !important;
+        padding-left: 10px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 720px) {/*log for i6*/
+    .logo
+    {       
+        padding-right: 70px;
+    }
+}
+@media only screen and (max-width: 570px) {/*menu for i6*/
+    .w-nav-button
+    {
+        width:50px;
+        float:right;
+        margin-top:-70px;
+        padding-left: 10px;
+    }
+}
+
+
+@media only screen and (max-width: 570px) {/*log for i6*/
+    .call
+    {       
+    display: none;
+    }
+}

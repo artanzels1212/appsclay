@@ -1,0 +1,354 @@
+@media only screen and (min-width : 219px) and (max-width : 320px) 
+{
+   .w-nav-button
+    {
+        width:60px !important;
+        float:right;
+        margin-top:-70px !important;
+        padding-left: 10px;
+    }
+    
+    #firstbannerdiv
+    {
+         margin-top: 0%; 
+        right: 30%;
+    }
+    #firstbannerinnerdiv
+    {
+        top: 0%;
+       font-size: 40px;
+    }
+    #firstbannerh1
+    {
+     font-size: 25px;
+     line-height: 40px;
+     margin-left: -35%;
+    }
+    #yo
+    {
+        display: none;
+    }
+    .call
+    {
+        display: none;
+    }
+    .propose
+    {
+        width: 150px;
+        letter-spacing: 0px; 
+        left: 20%;
+    }
+    .plan1
+    {
+        width: 260px;
+    }
+}
+
+
+
+/*2 Step*/
+@media only screen and (min-width : 323px) and (max-width : 500px) 
+{
+    .w-nav-button
+    {
+      width:50px;
+        float:right;
+        margin-top:-70px;
+        padding-left: 10px;
+    }
+     #firstbannerdiv
+    {
+         margin-top: 0%; 
+        right: 10%;
+    }
+    #firstbannerinnerdiv
+    {
+        top: 0%;
+       font-size: 50px;
+    }
+    #firstbannerh1
+    {
+     font-size: 45px;
+     line-height: 60px;
+     margin-left: -35%;
+    }
+    #yo
+    {
+        display: none;
+    }
+    .call
+    {
+       left: 50%; 
+        width: 160px;
+    }
+    .propose
+    {
+        width: 150px;
+        letter-spacing: 0px; 
+        left: 15%;
+    }
+    .our-plans 
+    {
+       text-align: center;
+    }
+    .our-plan-text
+    {
+        text-align: center;
+    }
+    .w-container
+    {
+         margin-left: 20%;
+    }
+    .our-plan-paragraph
+    {
+      margin-left: -20%;
+    }
+    .sepreater
+    {
+            margin-left: -20%;
+    }
+    
+}
+
+
+/*3 step*/
+@media only screen and (min-width : 501px) and (max-width : 700px) 
+{
+    .logo
+    {
+        padding-right: 40%;
+    }
+    .w-nav-button
+    {
+      width:50px;
+        float:right;
+        margin-top:-50px;
+        padding-left: 10px;
+    }
+     #firstbannerdiv
+    {
+         margin-top: 0%; 
+        right: 9%;
+    }
+    #firstbannerinnerdiv
+    {
+        top: 10%;
+       font-size: 80px;
+    }
+    #firstbannerh1
+    {
+     font-size: 45px;
+     line-height: 60px;
+     margin-left: -30%;
+    }
+    #yo
+    {
+        display: none;
+    }
+    .call
+    {
+       left: 60%; 
+        width: 160px;
+    }
+    .propose
+    {
+        width: 150px;
+        letter-spacing: 0px; 
+        left: 20%;
+    }
+    .our-plans 
+    {
+       text-align: center;
+    }
+    .our-plan-text
+    {
+        text-align: center;
+    }
+    .w-container
+    {
+         margin-left: 20%;
+    }
+    .our-plan-paragraph
+    {
+      margin-left: -20%;
+    }
+    .sepreater
+    {
+            margin-left: -20%;
+    }
+}
+
+/*4 step*/
+@media only screen and (min-width : 701px) and (max-width : 770px) 
+{
+    .logo
+    {
+        padding-right: 60%;
+    }
+    .w-nav-button
+    {
+      width:50px;
+        float:right;
+        margin-top:-50px;
+        padding-left: 10px;
+    }
+     #firstbannerdiv
+    {
+         margin-top: 0%; 
+        right: 5%;
+    }
+    #firstbannerinnerdiv
+    {
+        top: 10%;
+       font-size: 80px;
+    }
+    #firstbannerh1
+    {
+     font-size: 55px;
+     line-height: 60px;
+     margin-left: -20%;
+    }
+    .call
+    {
+       left: 60%; 
+        width: 160px;
+    }
+    .propose
+    {
+        width: 150px;
+        letter-spacing: 0px; 
+        left: 30%;
+    }
+    .our-plans 
+    {
+       text-align: center;
+    }
+    .our-plan-text
+    {
+        text-align: center;
+    }
+    .w-container
+    {
+         margin-left: 20%;
+    }
+    .our-plan-paragraph
+    {
+      margin-left: -20%;
+    }
+    .sepreater
+    {
+            margin-left: -20%;
+    }
+}
+/*only for menu*/
+@media only screen and (min-width : 768px) and (max-width : 840px) 
+{
+   .logo
+    {
+       padding: inherit;
+    }
+    .w-nav-button
+    {
+      float:right;
+      margin-top:0px;
+      margin-left: 20%;
+    }
+    .w-container
+    {
+         margin-left: -10%;
+    }
+}
+
+/*5 step*/
+@media only screen and (min-width : 771px) and (max-width : 840px) 
+{
+    #firstbannerdiv
+    {
+         margin-top: 0%; 
+        right: 5%;
+    }
+    #firstbannerinnerdiv
+    {
+        top: 10%;
+       font-size: 80px;
+    }
+    #firstbannerh1
+    {
+     font-size: 55px;
+     line-height: 60px;
+     margin-left: -20%;
+    }
+    .call
+    {
+       left: 60%; 
+        width: 160px;
+    }
+    .propose
+    {
+        width: 150px;
+        letter-spacing: 0px; 
+        left: 30%;
+    }
+    .our-plans 
+    {
+       text-align: center;
+    }
+    .our-plan-text
+    {
+        text-align: center;
+    }
+    .w-container
+    {
+         margin-left: 20%;
+    }
+    .our-plan-paragraph
+    {
+      margin-left: -20%;
+    }
+    .sepreater
+    {
+            margin-left: -20%;
+    }
+    .w-container
+    {
+         margin-left: 0%;
+    }
+    .plan1
+    {
+        width: auto;
+    }
+    .team-image
+    {
+        width: auto;
+    }
+}
+
+
+
+/*6 step*/
+@media only screen and (min-width : 800px) and (max-width : 995px) 
+{
+    .logo
+    {
+        padding-right: 0%;
+        right: -10%;
+    }
+    .w-nav-button
+    {
+      width:40px;
+        float:right;
+        margin-top:-10px;
+    }
+    .w-container
+    {
+         margin-left: 0%;
+    }
+    .plan1
+    {
+        width: auto;
+    }
+    .team-image
+    {
+        width: auto;
+    }
+}
